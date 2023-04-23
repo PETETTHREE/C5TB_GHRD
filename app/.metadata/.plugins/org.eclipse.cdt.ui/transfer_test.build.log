@@ -1,0 +1,38 @@
+08:10:24 **** Incremental Build of configuration Debug for project transfer_test ****
+make all 
+Building file: ../main.c
+Invoking: GCC C Compiler 4 [arm-linux-gnueabihf]
+arm-linux-gnueabihf-gcc -I/home/bananasuper/intelFPGA/18.1/embedded/ip/altera/hps/altera_hps/hwlib/include -I/home/bananasuper/intelFPGA/18.1/embedded/ip/altera/hps/altera_hps/hwlib/include/soc_cv_av -I"C:\intelFPGA\18.1\embedded\ip\altera\hps\altera_hps\hwlib\include\soc_cv_av" -I"C:\intelFPGA\18.1\embedded\ip\altera\hps\altera_hps\hwlib\include" -O0 -g -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.o" -o "main.o" "../main.c"
+../main.c: In function 'fpga_init':
+../main.c:51:2: warning: implicit declaration of function 'system' [-Wimplicit-function-declaration]
+  system("insmod amm_wr_drv.ko");
+  ^
+../main.c:66:2: warning: implicit declaration of function 'ioctl' [-Wimplicit-function-declaration]
+  ioctl(transfer_fd, AMM_WR_CMD_DMA_BASE, &p_transfer_data_base);
+  ^
+../main.c:67:2: warning: format '%x' expects argument of type 'unsigned int', but argument 2 has type 'unsigned char *' [-Wformat=]
+  printf("p_transfer_data_base = %x\n", p_transfer_data_base);
+  ^
+../main.c:69:2: warning: passing argument 6 of 'mmap' makes integer from pointer without a cast [enabled by default]
+  transfer_data_base = (unsigned char *)mmap(NULL, IMG_BUF_SIZE * 3, (PROT_READ | PROT_WRITE), MAP_SHARED, mem_fd, p_transfer_data_base);
+  ^
+In file included from ../main.c:8:0:
+c:\intelfpga\18.1\embedded\ds-5\sw\gcc\arm-linux-gnueabihf\libc\usr\include\sys\mman.h:57:14: note: expected '__off_t' but argument is of type 'unsigned char *'
+ extern void *mmap (void *__addr, size_t __len, int __prot,
+              ^
+../main.c:77:21: warning: assignment makes integer from pointer without a cast [enabled by default]
+  *dvp_ddr3_cfg_base = p_transfer_data_base;
+                     ^
+../main.c:82:21: warning: assignment makes integer from pointer without a cast [enabled by default]
+  *ddr3_vga_cfg_base = p_transfer_data_base + IMG_BUF_SIZE;
+                     ^
+Finished building: ../main.c
+ 
+Building target: transfer_test
+Invoking: GCC C Linker 4 [arm-linux-gnueabihf]
+arm-linux-gnueabihf-gcc  -o "transfer_test"  ./main.o   
+Finished building target: transfer_test
+ 
+
+08:10:24 Build Finished (took 504ms)
+

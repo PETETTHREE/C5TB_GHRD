@@ -1,0 +1,1929 @@
+!SESSION 2023-04-17 19:42:51.072 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Framework arguments:  -product com.arm.ds.default
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product com.arm.ds.default
+
+This is a continuation of log file C:\Users\ysb\Desktop\jic\Demo\C5TB_GHRD_CCIC7_C5TB\app\.metadata\.bak_0.log
+Created Time: 2023-04-17 20:22:33.901
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:22:33.902
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:22:56.073
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:23:18.390
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:23:40.905
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:24:02.788
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:24:26.495
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:24:48.749
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:25:11.325
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:25:33.353
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:25:55.453
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:26:17.526
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:26:39.917
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:27:01.898
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:27:24.397
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:27:46.675
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:28:08.753
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:28:30.598
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:28:52.665
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:29:14.836
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:29:37.989
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:30:00.104
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:30:22.229
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:30:44.338
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:31:06.577
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:31:28.491
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:31:53.108
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:32:15.189
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:32:37.607
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:32:59.709
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:33:21.747
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:33:43.915
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:34:05.872
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:34:27.876
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:34:49.914
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:35:11.813
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:35:34.046
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:35:56.135
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:36:17.997
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:36:39.970
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:37:02.304
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:37:24.309
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:37:46.341
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:38:08.545
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:38:30.440
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:38:52.481
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:39:14.640
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:39:36.728
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:39:58.802
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:40:20.758
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:40:43.066
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:41:05.027
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:41:27.103
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:41:49.191
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:42:11.119
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:42:40.223
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:43:02.559
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:43:24.462
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:43:46.540
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:44:08.582
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:44:30.537
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:44:52.517
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:45:14.740
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:45:36.890
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:45:59.140
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:46:21.101
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:46:43.470
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:47:05.424
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:47:27.373
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:47:49.549
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:48:11.483
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:48:33.583
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:48:56.123
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:49:18.030
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:49:40.110
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:50:02.041
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:50:24.012
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:50:45.889
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:51:07.826
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:51:29.818
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:51:51.925
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:52:13.747
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:52:35.882
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:52:58.027
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:53:20.306
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:53:42.527
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:54:04.599
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:54:26.511
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:54:48.757
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:55:10.539
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:55:32.607
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:55:54.872
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:56:16.905
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:56:38.967
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:57:01.039
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:57:23.240
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:57:45.726
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:58:07.653
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:58:29.662
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:58:51.680
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:59:13.796
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:59:35.803
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 20:59:57.975
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:00:20.040
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:00:42.511
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:01:04.422
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:01:26.407
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:01:48.308
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:02:10.230
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:02:32.237
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:02:54.981
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:03:17.331
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:03:39.926
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:04:02.250
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:04:24.517
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:04:46.792
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:05:09.330
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:05:31.648
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:05:54.984
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:06:17.328
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:06:40.133
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:07:02.571
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:07:25.114
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:07:47.524
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:08:09.994
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:08:32.290
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:08:54.646
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:09:17.021
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:09:39.505
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:10:01.668
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:10:24.108
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:10:46.446
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:11:08.894
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:11:31.389
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:11:53.752
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:12:16.395
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:12:38.954
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:13:01.535
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:13:24.109
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:13:46.564
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:14:08.858
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:14:31.319
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:14:53.731
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:15:15.937
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:15:38.662
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:16:00.951
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:16:23.162
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:16:45.428
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:17:07.860
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:17:29.970
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:17:52.449
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:18:14.917
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:18:37.559
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:18:59.950
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:19:22.229
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:19:44.615
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:20:07.425
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:20:29.690
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:20:52.208
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:21:14.709
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:21:37.367
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:21:59.690
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:22:21.910
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:22:44.338
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:23:07.214
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:23:29.607
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:23:52.016
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:24:14.468
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:24:36.977
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:24:59.612
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:25:22.044
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:25:44.354
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:26:06.721
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:26:29.212
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:26:51.582
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:27:13.789
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:27:36.592
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:27:58.967
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:28:21.269
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:28:43.701
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:29:06.226
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:29:28.761
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:29:51.128
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:30:13.474
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:30:36.193
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:30:58.524
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:31:21.011
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:31:43.284
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:32:05.989
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:32:28.412
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:32:51.205
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:33:13.712
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:33:36.639
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:33:58.837
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:34:21.072
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:34:43.350
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:35:05.911
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:35:28.642
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:35:51.186
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:36:13.397
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:36:36.009
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:36:58.037
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:37:20.127
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:37:41.965
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:38:04.083
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:38:26.020
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:38:48.117
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:39:10.336
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:39:32.500
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:39:54.725
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:40:16.697
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:40:38.706
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:41:01.176
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:41:23.251
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:41:45.276
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:42:07.386
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:42:29.504
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:42:51.713
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:43:14.054
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:43:35.959
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:43:58.385
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:44:20.512
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:44:42.621
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:45:04.571
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:45:26.655
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:45:48.635
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:46:10.501
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:46:32.393
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:46:54.726
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:47:16.733
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:47:38.813
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:48:00.974
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:48:23.089
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:48:45.128
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:49:07.177
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:49:29.073
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:49:51.253
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-17 21:50:13.173
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY org.eclipse.rse.ui 4 0 2023-04-17 21:52:37.114
+!MESSAGE RSEG1058
+!STACK 0
+java.lang.Exception
+	at org.eclipse.rse.ui.messages.SystemMessageDialog.logMessage(SystemMessageDialog.java:449)
+	at org.eclipse.rse.ui.messages.SystemMessageDialog.open(SystemMessageDialog.java:459)
+	at org.eclipse.rse.internal.connectorservice.ssh.SshConnectorService$SessionLostHandler.run(SshConnectorService.java:349)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:182)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4211)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3827)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1121)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1022)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:150)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:693)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:610)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:138)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1519)
+	at com.arm.workbench.Hook.run(Hook.java:487)
+!SESSION 2023-04-20 16:38:57.740 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Framework arguments:  -product com.arm.ds.default
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product com.arm.ds.default
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 16:40:19.142
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 16:40:41.615
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 16:41:04.400
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 16:41:26.928
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 16:41:50.174
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 16:42:13.008
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 16:42:35.843
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 16:42:58.679
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 16:43:21.820
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 16:43:44.246
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 16:44:06.977
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 16:44:29.120
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 16:44:52.237
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 16:45:15.073
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 16:45:38.296
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 16:46:01.153
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 16:46:24.397
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 16:46:47.232
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 16:47:09.861
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 16:47:32.544
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 16:47:56.022
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 16:48:18.133
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 16:48:40.693
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 16:49:03.628
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 16:49:26.462
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 16:49:48.990
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 16:50:11.637
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 16:50:34.659
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 16:50:57.699
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 16:51:20.535
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 16:51:42.959
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 16:52:05.781
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 16:52:28.733
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 16:52:52.897
+!MESSAGE Unable to download welcome page metadata. Software caused connection abort: recv failed
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 16:53:15.732
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 16:53:38.729
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 16:54:01.711
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 16:54:24.750
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 16:54:47.380
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 16:55:10.318
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 16:55:33.643
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 16:55:55.818
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 16:56:18.626
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 16:56:41.620
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 16:57:04.621
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 16:57:27.459
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 16:57:50.367
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 16:58:13.544
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 16:58:36.550
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 16:58:59.674
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 16:59:22.834
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 16:59:45.654
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:00:08.811
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:00:31.749
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:00:53.976
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:01:16.908
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:01:40.151
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:02:02.678
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:02:25.413
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:02:48.559
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:03:11.512
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:03:34.534
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:03:57.448
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:04:20.639
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:04:43.855
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:05:06.899
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:05:29.745
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:06:02.167
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:06:24.514
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:06:47.349
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:07:14.395
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:07:44.400
+!MESSAGE Unable to download welcome page metadata. connect timed out
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:08:04.455
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:08:24.512
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:08:44.519
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:09:04.576
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:09:24.583
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:09:44.590
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:10:04.647
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:10:24.654
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:10:44.661
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:11:04.717
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:11:24.774
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:11:44.829
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:12:04.884
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:12:24.890
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:12:44.897
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:13:04.954
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:13:24.961
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:13:45.017
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:14:05.023
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:14:25.077
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:14:45.084
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:15:05.140
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:15:25.146
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:15:45.152
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:16:05.159
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:16:25.217
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:16:45.223
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:17:05.279
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:17:25.285
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:17:45.342
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:18:05.349
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:18:25.355
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:18:45.412
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:19:05.469
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:19:25.474
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:19:45.480
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:20:05.487
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:20:25.494
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:20:45.550
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:21:05.606
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:21:25.613
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:21:45.668
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:22:05.674
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:22:25.730
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:22:45.786
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:23:05.792
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:23:25.799
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:23:45.857
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:24:05.913
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:24:25.919
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:24:45.925
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:25:05.931
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:25:25.938
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:25:45.994
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:26:06.000
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:26:26.007
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:26:46.014
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:27:06.041
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:27:26.097
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:27:46.104
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:28:06.160
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:28:26.166
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:28:46.221
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:29:06.227
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:29:26.284
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:29:46.341
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:30:06.398
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:30:26.403
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:30:46.409
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:31:06.415
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:31:26.472
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:31:46.478
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:32:06.534
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:32:26.541
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:32:46.548
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:33:06.555
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:33:26.562
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:33:46.568
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:34:06.623
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:34:26.630
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:34:46.685
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:35:06.691
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:35:26.698
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:35:46.754
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:36:06.760
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:36:26.767
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:36:46.773
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:37:06.807
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:37:26.864
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:37:46.872
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:38:06.931
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:38:26.937
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:38:46.993
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:39:07.048
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:39:27.105
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:39:47.162
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:40:07.170
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:40:27.225
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:40:47.282
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:41:07.289
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:41:27.295
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:41:47.302
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:42:07.359
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:42:27.365
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:42:47.372
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:43:07.379
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:43:27.385
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:43:47.441
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:44:07.498
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:44:27.503
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:44:47.559
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:45:07.565
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:45:27.572
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:45:47.628
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:46:07.635
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:46:27.691
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:46:47.698
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:47:07.753
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:47:27.808
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:47:47.814
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:48:07.836
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:48:27.842
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:48:47.849
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:49:07.904
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:49:27.911
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:49:47.967
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:50:07.973
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:50:28.029
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:50:48.086
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:51:08.093
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:51:28.099
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:51:48.106
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:52:08.161
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:52:28.216
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:52:48.223
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:53:08.229
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:53:28.283
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:53:48.290
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:54:08.297
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:54:28.354
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:54:48.408
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:55:08.465
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:55:28.522
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:55:48.528
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:56:08.584
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:56:28.641
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:56:48.698
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:57:08.706
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:57:28.760
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:57:48.766
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:58:08.773
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:58:28.780
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:58:48.786
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:59:08.842
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:59:28.849
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 17:59:48.903
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:00:08.910
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:00:28.917
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:00:48.923
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:01:08.930
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:01:28.987
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:01:49.042
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:02:09.098
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:02:29.105
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:02:49.160
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:03:09.167
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:03:29.222
+!MESSAGE Unable to download welcome page metadata. developer.arm.com
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:03:53.006
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:04:15.859
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:04:38.726
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:05:01.559
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:05:24.803
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:05:47.433
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:06:10.166
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:06:33.615
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:06:56.655
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:07:19.631
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:07:42.325
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:08:05.467
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:08:28.712
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:08:51.240
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:09:14.074
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:09:36.808
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:09:59.599
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:10:22.496
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:10:45.211
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:11:08.351
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:11:31.698
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:11:54.330
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:12:16.936
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:12:39.693
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:13:03.038
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:13:26.008
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:13:48.812
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:14:11.647
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:14:35.062
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:14:57.601
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:15:20.560
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:15:43.293
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:16:26.025
+!MESSAGE Unable to download welcome page metadata. Connection timed out: connect
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:16:48.521
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:17:11.479
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:17:34.498
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:17:57.538
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:18:20.577
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:18:43.184
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:19:06.658
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:19:29.368
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:19:52.634
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:20:15.264
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:20:38.611
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:21:01.344
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:21:23.974
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:21:46.911
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:22:10.565
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:22:33.298
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:22:56.348
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:23:19.173
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:23:43.111
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:24:05.846
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:24:28.410
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:24:51.434
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:25:14.679
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:25:37.618
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:26:00.173
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:26:22.876
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:26:46.019
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:27:09.036
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:27:32.201
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:27:55.038
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:28:18.072
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:28:40.727
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:29:03.542
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:29:26.085
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:29:49.211
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:30:11.534
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:30:34.778
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:30:57.613
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:31:21.062
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:31:44.182
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:32:07.244
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:32:29.977
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:32:53.458
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:33:16.159
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:33:39.096
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:34:01.726
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:34:24.971
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:34:47.997
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:35:11.233
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:35:34.193
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:35:57.437
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:36:20.375
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:36:49.346
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:37:12.189
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:37:35.642
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:37:58.576
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:38:21.309
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:38:44.349
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:39:07.184
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:39:29.463
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:39:52.343
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:40:15.074
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:40:38.114
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:41:00.847
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:41:23.580
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:41:46.621
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:42:09.864
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:42:32.780
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:42:55.637
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:43:18.677
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:43:41.592
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:44:04.449
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:44:27.183
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:44:49.505
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:45:12.851
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:45:35.474
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:45:58.216
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:46:20.673
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:46:43.864
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:47:07.129
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:47:29.658
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:47:52.493
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:48:15.632
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:48:38.569
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:49:01.329
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:49:24.033
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:49:46.869
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:50:10.114
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:50:32.771
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:50:55.477
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:51:18.516
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:51:41.453
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:52:04.289
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:52:26.731
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:52:49.362
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:53:11.781
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:53:34.706
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:53:57.440
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:54:20.889
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:54:44.134
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:55:06.866
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:55:29.701
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:55:52.741
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:56:15.803
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:56:38.615
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:57:00.529
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:57:23.364
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:57:46.096
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:58:08.726
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:58:31.561
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:58:54.816
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:59:17.949
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 18:59:40.577
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 19:00:03.312
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 19:00:26.022
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 19:00:48.896
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+
+!ENTRY com.arm.ui.intro 2 0 2023-04-20 19:01:11.713
+!MESSAGE Unable to download welcome page metadata. sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
